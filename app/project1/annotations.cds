@@ -1,0 +1,1 @@
+using InteractionsService as service from '../../srv/interactions_srv';
